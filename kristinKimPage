@@ -19,16 +19,5 @@
         <title>Github Intro</title>
     </head>
     <body>
-        <h1>CSCI 1000 GitHub Project Gogo!!!</h1>
-        <div>
-            <div class="d-grid gap-2 col-6 mx-auto">
-                <a type="button" class="btn btn-lg cus" href="#" role="button">Kristin's Personal Page!!</a>
-                <a type="button" class="btn btn-lg cus" href="#" role="button"></a>
-            </div>
-            <div class="d-grid gap-2 col-6 mx-auto">
-                <a type="button" class="btn btn-lg cus" href="#" role="button"></a>
-                <a type="button" class="btn btn-lg cus" href="#" role="button"></a>
-            </div>
-        </div>
     </body>
 </html>
