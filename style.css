@@ -1,1 +1,20 @@
+h1, h2{
+    text-align: center;
+}
 
+h1{
+    font-style:bold;
+}
+
+.main-box{
+    background-color: rgb(255, 255, 255);
+    border-style: dashed;
+    border-width: 4px;
+    border-color:rgb(127, 193, 205);
+    border-radius: 30%;
+    padding: 20px;
+}
+
+.btn{
+    background-color: rgb(166, 226, 235);
+}
